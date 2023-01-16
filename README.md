@@ -1,4 +1,4 @@
-![logo](https://github.com/Anu-rag1/Anu-rag1/blob/main/big-data-data-analysis-concept-flat-design-web-banner-modern-research-reporting-showing-analytic-reports-mobile-phone-97803478.jpg)
+![logo](https://github.com/Anu-rag1/Anu-rag1/blob/main/1.jpg)
 <h1 align="center">Hi 👋, I'm Anurag Ghosh</h1>
 <h3 align="center">A passionate Data Analyst aims to became a Data Scientist</h3>
 
